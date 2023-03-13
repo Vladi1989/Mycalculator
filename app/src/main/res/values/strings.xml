@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="result">Resultat</string>
+    <string name="first_number_text">Введите первое число</string>
+
+    <string name="write_second_number">Write second number</string>
+    <string name="symbol">Введите знак</string>
+    <string name="calculate">Посчитать</string>
+
+
+</resources>
